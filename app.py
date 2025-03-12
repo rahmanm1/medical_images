@@ -279,7 +279,7 @@ def main():
         <style>
             .footer {
                 position: fixed;
-                bottom: 14px;
+                bottom: 18px;
                 right: 14px;
                 font-size: 15px;
                 color: gray;
